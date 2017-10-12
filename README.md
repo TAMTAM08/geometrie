@@ -39,3 +39,14 @@ Troisième partie : réflexion
 Quatrième partie : modélisation
 
 - Etape 8 : réaliser une représentation UML du modèle métier en utilisant un diagramme de classe
+- Etape 9 : compléter la représentation UML en enrichissant le métier avec de nouvelles entités au choix, voire de nouveaux comportements
+
+Bonus : approfondissement
+
+- Etape 10 : modéliser la notion d'espace à 3 dimensions, de point, de segment
+- Etape 11 : modéliser les comportements suivants sur un espace à 3 dimensions
+  - Placer un point
+  - Placer un segment
+  - Placer une surface
+  - Placer un volume
+- Etape 12 : implémenter la modélisation menée précédemment en Java
